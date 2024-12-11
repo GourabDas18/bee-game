@@ -1,0 +1,3015 @@
+{
+  "frames": [
+    {
+      "filename": "Bee/bee0001.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0002.png",
+      "frame": {
+        "x": 400,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0003.png",
+      "frame": {
+        "x": 800,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0004.png",
+      "frame": {
+        "x": 1200,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0005.png",
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0006.png",
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0007.png",
+      "frame": {
+        "x": 400,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0008.png",
+      "frame": {
+        "x": 800,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0009.png",
+      "frame": {
+        "x": 1200,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0010.png",
+      "frame": {
+        "x": 1600,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0012.png",
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0013.png",
+      "frame": {
+        "x": 400,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0014.png",
+      "frame": {
+        "x": 800,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0016.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0017.png",
+      "frame": {
+        "x": 1600,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0018.png",
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0019.png",
+      "frame": {
+        "x": 400,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0020.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0021.png",
+      "frame": {
+        "x": 1200,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0022.png",
+      "frame": {
+        "x": 1600,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0023.png",
+      "frame": {
+        "x": 0,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0024.png",
+      "frame": {
+        "x": 400,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0025.png",
+      "frame": {
+        "x": 800,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0027.png",
+      "frame": {
+        "x": 1200,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0028.png",
+      "frame": {
+        "x": 1600,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0029.png",
+      "frame": {
+        "x": 0,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0031.png",
+      "frame": {
+        "x": 400,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0032.png",
+      "frame": {
+        "x": 800,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0033.png",
+      "frame": {
+        "x": 1200,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0034.png",
+      "frame": {
+        "x": 1600,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0035.png",
+      "frame": {
+        "x": 0,
+        "y": 1800,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0036.png",
+      "frame": {
+        "x": 400,
+        "y": 1800,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0037.png",
+      "frame": {
+        "x": 800,
+        "y": 1800,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0015.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0045.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0061.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0075.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0105.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0062.png",
+      "frame": {
+        "x": 400,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0063.png",
+      "frame": {
+        "x": 800,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0064.png",
+      "frame": {
+        "x": 1200,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0011.png",
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0041.png",
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0065.png",
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0071.png",
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0101.png",
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0066.png",
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0067.png",
+      "frame": {
+        "x": 400,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0038.png",
+      "frame": {
+        "x": 800,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0068.png",
+      "frame": {
+        "x": 800,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0098.png",
+      "frame": {
+        "x": 800,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0039.png",
+      "frame": {
+        "x": 1200,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0069.png",
+      "frame": {
+        "x": 1200,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0099.png",
+      "frame": {
+        "x": 1200,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0040.png",
+      "frame": {
+        "x": 1600,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0070.png",
+      "frame": {
+        "x": 1600,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0100.png",
+      "frame": {
+        "x": 1600,
+        "y": 300,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0042.png",
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0072.png",
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0102.png",
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0043.png",
+      "frame": {
+        "x": 400,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0073.png",
+      "frame": {
+        "x": 400,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0103.png",
+      "frame": {
+        "x": 400,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0044.png",
+      "frame": {
+        "x": 800,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0074.png",
+      "frame": {
+        "x": 800,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0104.png",
+      "frame": {
+        "x": 800,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0030.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0046.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0060.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0076.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0090.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0106.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0120.png",
+      "frame": {
+        "x": 1200,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0047.png",
+      "frame": {
+        "x": 1600,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0077.png",
+      "frame": {
+        "x": 1600,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0107.png",
+      "frame": {
+        "x": 1600,
+        "y": 600,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0048.png",
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0078.png",
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0108.png",
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0049.png",
+      "frame": {
+        "x": 400,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0079.png",
+      "frame": {
+        "x": 400,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0109.png",
+      "frame": {
+        "x": 400,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0026.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0050.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0056.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0080.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0086.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0110.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0116.png",
+      "frame": {
+        "x": 800,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0051.png",
+      "frame": {
+        "x": 1200,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0081.png",
+      "frame": {
+        "x": 1200,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0111.png",
+      "frame": {
+        "x": 1200,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0052.png",
+      "frame": {
+        "x": 1600,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0082.png",
+      "frame": {
+        "x": 1600,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0112.png",
+      "frame": {
+        "x": 1600,
+        "y": 900,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0053.png",
+      "frame": {
+        "x": 0,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0083.png",
+      "frame": {
+        "x": 0,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0113.png",
+      "frame": {
+        "x": 0,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0054.png",
+      "frame": {
+        "x": 400,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0084.png",
+      "frame": {
+        "x": 400,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0114.png",
+      "frame": {
+        "x": 400,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0055.png",
+      "frame": {
+        "x": 800,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0085.png",
+      "frame": {
+        "x": 800,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0115.png",
+      "frame": {
+        "x": 800,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0057.png",
+      "frame": {
+        "x": 1200,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0087.png",
+      "frame": {
+        "x": 1200,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0117.png",
+      "frame": {
+        "x": 1200,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0058.png",
+      "frame": {
+        "x": 1600,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0088.png",
+      "frame": {
+        "x": 1600,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0118.png",
+      "frame": {
+        "x": 1600,
+        "y": 1200,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0059.png",
+      "frame": {
+        "x": 0,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0089.png",
+      "frame": {
+        "x": 0,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0119.png",
+      "frame": {
+        "x": 0,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0091.png",
+      "frame": {
+        "x": 400,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0092.png",
+      "frame": {
+        "x": 800,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0093.png",
+      "frame": {
+        "x": 1200,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0094.png",
+      "frame": {
+        "x": 1600,
+        "y": 1500,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0095.png",
+      "frame": {
+        "x": 0,
+        "y": 1800,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0096.png",
+      "frame": {
+        "x": 400,
+        "y": 1800,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Bee/bee0097.png",
+      "frame": {
+        "x": 800,
+        "y": 1800,
+        "w": 400,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 300
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2000,
+      "h": 2100
+    },
+    "scale": 1
+  }
+}

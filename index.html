@@ -1,0 +1,82 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Kavoon&display=swap" rel="stylesheet">
+    
+    <title>Addition Game</title>
+    <style>
+        *{
+            user-select: none;
+            -webkit-user-drag: none;
+            -webkit-user-select: none;
+        }
+        body {
+            width: 100dvw;
+            height: 100dvh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            background-color: rgb(0, 0, 0);
+            color: rgb(226, 226, 226);
+        }
+
+        canvas {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            translate: -50% -50%;
+            max-width: 100%;
+            max-height: 100%;
+        }
+        button{
+            background-image: url(./btn/game_open_1_2.png);
+            background-size: cover;
+            width: 8vw;
+            height: 8vw;
+            border-radius: 10vw;
+            font-size: 1.1vw;
+            text-align: center;
+            background-color: transparent;
+            border: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(226, 226, 226);
+            z-index: 1;
+            position: absolute;
+            top:50%;left:50%;
+            transform: translate(-50%,-50%);
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <p style="font-size: 4vw;font-family: 'Kavoon';">Loading ..</p>
+    <canvas></canvas>
+    <script>
+        let start = false;
+        let clicked=false;
+        const canvas = document.querySelector('canvas');
+        canvas.width = 1280
+        canvas.height = 786
+        const ctx = canvas.getContext('2d');
+        const bg_music1 = new Audio('./speech/bg_music2.mp3');
+        
+       
+
+    </script>
+    <script defer src="./js/bee.js"></script>
+    <script defer src="./js/bg.js"></script>
+    <script defer src="./js/coin.js"></script>
+    <script defer src="./js/audio.js"></script>
+    <script defer src="./js/bar.js"></script>
+    <script defer src="./js/box.js"></script>
+    <script defer src="./js/cograts.js"></script>
+    <script defer src="./js/wrong.js"></script>
+    <script defer src="./js/fullscreen.js"></script>
+    <script defer src="./js/main.js"></script>
+</body>
+
+</html>
